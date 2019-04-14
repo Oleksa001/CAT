@@ -10,12 +10,14 @@
       <header class="site-header">
         <h1>Инструктор Кекс</h1>
         <p>Обучение начинающих котят</p>
-      </header>
+        <img src="https://htmlacademy.ru/assets/courses/297/img/keks.png">      
+        </header>
 
       <section class="features">
         <h2>Почему я?</h2>
         <p>Я сам был котёнком, и вот я здесь</p>
         <p>Хозяин натренирован на 100%</p>
+        <p>Профессиональный кот уже более 5 лет</p>
       </section>
 
       <section class="skills">
@@ -25,6 +27,7 @@
           <li>придавать мебели винтажный стиль</li>
           <li>открывать дверь и не входить</li>
           <li>будить хозяина ночью</li>
+          <li>разбрасывать шерсть по квартире</li>
         </ul>
       </section>
 
@@ -34,3 +37,4 @@
       </footer>
     </div>
   </body>
+</html>
